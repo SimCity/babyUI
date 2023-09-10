@@ -1,0 +1,29 @@
+{
+    "name": "BabyAPI",
+    "version": "0.0.1",
+    "description": "An ESP-now implementation for the API of Baby Buddy",
+    "keywords": "baby,JSON,baby buddy,",
+    "dependencies":
+    [
+        {
+            "owner": "mathertel",
+            "name": "OneButton",
+            "version": "^2.0.3"
+        },
+        {
+            "owner": "mcxiaoke",
+            "name": "ESPDateTime",
+            "version": "^1.0.4"
+        },
+        {
+            "owner": "arduinogetstarted",
+            "name": "ezBuzzer",
+            "version": "^1.0.0"
+        },
+        {
+            "name":"u8g2 MUI - with string",
+            "version": "symlink://C:/Users/SimCity/Documents/PlatformIO/Projects/u8g2_MUI - with string"
+        }
+
+    ]
+}
